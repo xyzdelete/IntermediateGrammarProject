@@ -1,0 +1,115 @@
+// COLORS
+
+// Primary Color Palette
+$color-primary: #3498db; // Clear blue for primary elements (calm and professional)
+$color-primary-light: #85c1e9; // Soft blue for highlights (refreshing and engaging)
+$color-primary-dark: #21618c; // Deep blue for strong emphasis (trust and depth)
+
+// Secondary Color Palette
+$color-secondary: #e74c3c; // Bright red for attention-grabbing (bold and energetic)
+$color-secondary-light: #f1948a; // Light red for accents (warm and friendly)
+$color-secondary-dark: #c0392b; // Dark red for contrast (intense and impactful)
+
+// Tertiary Color Palette
+$color-tertiary: #f1c40f; // Bright yellow for accents (energetic and lively)
+$color-tertiary-light: #f7dc6f; // Soft yellow for balance (cheerful and inviting)
+$color-tertiary-dark: #b7950b; // Rich gold for emphasis (classic and strong)
+
+///////////////////////////
+// Pair 2: Purple & Greens
+///////////////////////////
+
+// Primary Color Palette
+$color-4: #8e44ad; // Bold purple for primary elements (regal and creative)
+$color-4-light: #bb8fce; // Light lavender for highlights (calm and whimsical)
+$color-4-dark: #5b2c6f; // Deep purple for emphasis (mysterious and elegant)
+
+// Secondary Color Palette
+$color-5: #2ecc71; // Vibrant green for accents (fresh and dynamic)
+$color-5-light: #a3e4d7; // Soft mint green for accents (cool and refreshing)
+$color-5-dark: #27ae60; // Strong green for contrast (reliable and strong)
+
+// Tertiary Color Palette
+$color-6: #f39c12; // Bold orange for sharp contrast (warm and vivid)
+$color-6-light: #f8c471; // Light peach for softer highlights (friendly and warm)
+$color-6-dark: #d35400; // Deep burnt orange for emphasis (rich and strong)
+
+///////////////////////////
+// Pair 3: Teals & Yellows
+///////////////////////////
+
+// Primary Color Palette
+$color-7: #1abc9c; // Bright teal for primary (calm and tropical)
+$color-7-light: #76d7c4; // Light sea foam green for accents (soothing and clean)
+$color-7-dark: #16a085; // Deep teal for contrast (reliable and steady)
+
+// Secondary Color Palette
+$color-8: #f4d03f; // Bright golden yellow for contrast (cheerful and energetic)
+$color-8-light: #f7dc6f; // Soft yellow for accentuation (warm and friendly)
+$color-8-dark: #b7950b; // Strong golden brown for impact (classic and solid)
+
+// Tertiary Color Palette
+$color-9: #e74c3c; // Strong red for tertiary accents (bold and attention-grabbing)
+$color-9-light: #f1948a; // Light coral red for accents (warm and soft)
+$color-9-dark: #c0392b; // Dark, intense red for contrast (passionate and impactful)
+
+///////////////////////////
+// Pair 4: Warm Browns & Blues
+///////////////////////////
+
+// Primary Color Palette
+$color-10: #2c3e50; // Dark blue for primary elements (stable and professional)
+$color-10-light: #5d6d7e; // Light steel blue for accents (calm and reliable)
+$color-10-dark: #1a252f; // Deep navy for strong contrast (trustworthy and serious)
+
+// Secondary Color Palette
+$color-11: #e67e22; // Warm orange for attention (inviting and energetic)
+$color-11-light: #f39c12; // Golden orange for highlights (vibrant and positive)
+$color-11-dark: #ba4a00; // Rich brown-orange for contrast (warm and strong)
+
+// Tertiary Color Palette
+$color-12: #d35400; // Strong orange for tertiary accents (bold and impactful)
+$color-12-light: #e59866; // Soft peach for softer contrast (inviting and fresh)
+$color-12-dark: #873600; // Dark brown for strong contrast (solid and dependable)
+
+///////////////////////////
+// Pair 5: Forest Greens & Burgundy
+///////////////////////////
+
+// Primary Color Palette
+$color-13: #27ae60; // Forest green for primary (natural and stable)
+$color-13-light: #58d68d; // Light moss green for accents (fresh and organic)
+$color-13-dark: #1e8449; // Deep emerald for strong contrast (rich and vibrant)
+
+// Secondary Color Palette
+$color-14: #c0392b; // Dark red for secondary (bold and striking)
+$color-14-light: #e74c3c; // Bright red for attention (energetic and urgent)
+$color-14-dark: #922b21; // Deep burgundy for contrast (rich and luxurious)
+
+// Tertiary Color Palette
+$color-15: #f39c12; // Bright golden for accents (warm and vibrant)
+$color-15-light: #f7dc6f; // Soft yellow for balance (cheerful and inviting)
+$color-15-dark: #d68910; // Deep mustard for emphasis (vintage and classic)
+
+
+
+$color-grey-light-1: #f1f1f1; // Clean light grey for backgrounds (modern and fresh)
+$color-grey-light-2: #dfe6e9; // Slightly darker grey for dividers and subtle elements (neutral base)
+
+$color-grey-dark: #636e72; // Medium grey for body text (clear, readable)
+$color-grey-dark-2: #b2bec3; // Light grey for secondary text or less important elements
+$color-grey-dark-3: #2d3436; // Dark grey for strong contrast (bold text, buttons)
+
+$color-white: #ffffff; // Crisp white for open space and balance
+$color-black: #2f3640; // Deep, almost-black for text and high contrast areas
+
+// FONT
+
+$default-font-size: 1.6rem;
+
+// GRID
+
+$grid-width: 114rem;
+$gutter-vertical: 8rem;
+$gutter-vertical-small: 6rem;
+$gutter-horizontal: 6rem;
